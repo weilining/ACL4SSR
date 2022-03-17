@@ -389,9 +389,17 @@ payload:
   - DOMAIN-SUFFIX,zmzfile.com
 
   # Private Tracker
+  # 参考https://github.com/ronggang/PT-Plugin-Plus/tree/master/resource/sites
   - DOMAIN-KEYWORD,announce
   - DOMAIN-KEYWORD,torrent
   - DOMAIN-KEYWORD,tracker
+  - DOMAIN-SUFFIX,1ptba.com
+  - DOMAIN-SUFFIX,52pt.site
+  - DOMAIN-SUFFIX,www.empornium.is
+  - DOMAIN-SUFFIX,greatposterwall.com
+  - DOMAIN-SUFFIX,dicmusic.club
+  - DOMAIN-SUFFIX,pt.sjtu.edu.cn
+  - DOMAIN-SUFFIX,cinemageddon.net
   - DOMAIN-SUFFIX,animebytes.tv
   - DOMAIN-SUFFIX,animetorrents.me
   - DOMAIN-SUFFIX,awesome-hd.me
